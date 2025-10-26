@@ -22,8 +22,11 @@
 
 #Data Structures
 -------------------
+
 ->The purpose of this file is to share the creation of some Data Structures developed using the C Language.It is purely educational material and is based on REA-AED ("Open Educational Resource for Teaching Algorithms and Data Structures").
+
 ->The Structures that will be covered:
+
 ---------------------------------
 1st Stack: A data structure that operates using the LIFO ("Last-in First-out") logic. The last element inserted is the first to be removed.
 
