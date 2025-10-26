@@ -37,3 +37,21 @@
 4th Doubly Linked Lists: A data structure where each element it has an attribute that points to the previous element and the next element, it does not necessarily need to be ordered, and it can be traversed from beginning to end and from end to beginning. 
 
 -> Both Linked Lists and Doubly Linked Lists can be ordered. This type of ordering will be implemented in the present material.
+
+#Structures de données
+----------------------
+
+->L'objectif de ce fichier est de partager la création de certaines structures de données développées en langage C. Il s'agit d'un matériel purement éducatif et basé sur REA-AED ("Ressource Éducative Libre pour l'enseignement des algorithmes et des structures de données").
+
+->Les structures qui seront abordées:
+-------------------------------------
+
+1ère Pile : Structure de données qui fonctionne selon la logique LIFO (Last-in First-out), le dernier élément inséré est le premier à être retiré.
+
+2ème File : Structure de données qui fonctionne selon la logique FIFO (First-in First-out), le premier élément inséré est le premier à être retiré.
+
+3ème Listes Chaînées : Structure de données où chaque élément possède un attribut qui pointe vers le suivant, et l'insertion peut se faire au début ou à la fin, le retrait peut se faire à n'importe quelle position et n'a pas besoin d'être nécessairement ordonné.
+
+4ème Listes Doublement Chaînées : Structure de données où chaque élément possède un attribut qui pointe vers l'élément précédent et vers l'élément suivant, n'a pas besoin d'être nécessairement ordonné et peut être parcourue du début à la fin et de la fin au début.
+
+-> Les listes chaînées et les listes doublement chaînées peuvent toutes les deux être ordonnées. Ce type de tri sera implémenté dans le présent matériau.
