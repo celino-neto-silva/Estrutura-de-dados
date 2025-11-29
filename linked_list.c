@@ -120,6 +120,7 @@ void remove_list(linked_list* my_list){
                 free(aux1);
                 aux1 = aux2->prox; 
             }
+            break;
         }
         else{
             aux2 = aux1;
@@ -173,4 +174,5 @@ int main(void){
     
     freeing_list(my_list);
     return 0;
+
 }
